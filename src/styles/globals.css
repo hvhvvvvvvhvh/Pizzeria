@@ -1551,7 +1551,7 @@ body{
 @media (max-width: 1024px){
   .overlay h1,
   .menu-top h2,
-  .delivery-left h2{
+  .delivery-left h2,.ourmenu-overlay h1,.about-overlay h1{
     font-size:56px;
   }
   .features{
