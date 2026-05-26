@@ -11,7 +11,7 @@ return(
 <button className="order-btn">ORDER ONLINE</button>
 </div>
 <nav className="menu">
-<a>HOME</a><a>OUR MENU</a><a>ABOUT</a><a>OFFERS</a><a>CONTACT</a>
+<a href="/">HOME</a><a href="/menu">OUR MENU</a><a href="/about">ABOUT</a><a>OFFERS</a><a>CONTACT</a>
 </nav>
 </header>
 )}
