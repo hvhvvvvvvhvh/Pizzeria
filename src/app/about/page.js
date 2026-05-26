@@ -33,6 +33,7 @@ export default function OurMenuPage() {
       <section className="about-hero">
         <div className="about-overlay">
           <h1>About</h1>
+          <p>Dignissim sed suscipit mattis neque, in nibh blandit at nec in urna tristique ornare aliquam orci augue vestibulum dignissim vel aliquam.</p>
         </div>
 
         <div className="curve">
