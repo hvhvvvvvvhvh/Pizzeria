@@ -1,4 +1,4 @@
-import Header from "../components/home/layout/Header";
+import Header from "../components/layout/Header";
 import Hero from "../components/home/Hero";
 import Features from "../components/home/Features";
 import Delivery from "../components/home/Delivery";
@@ -10,7 +10,7 @@ import FranchiseSection from "../components/home/FranchiseSection";
 import InstagramSection from "../components/home/InstagramSection";
 import ReviewsBar from "../components/home/ReviewsBar";
 import AppDownloadSection from "../components/home/AppDownloadSection";
-import FooterSection from "../components/home/layout/Footer";
+import FooterSection from "../components/layout/Footer";
 
 export default function Home(){
   return(
